@@ -1,3 +1,4 @@
 using nano test.txt command 
 git add -A
-git commit -m "first commit"
+git commit -m "first commit" 
+updated
